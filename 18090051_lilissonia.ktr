@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transformation>
   <info>
-    <name>18090064_AdeSugiantoro_5B</name>
+    <name>18090051_lilissonia</name>
     <description />
     <extended_description />
     <trans_version />
@@ -648,7 +648,7 @@
     <fileNameField />
     <create_parent_folder>Y</create_parent_folder>
     <file>
-      <name>E:\Pentaho Data Integration\Tugas TM4\18090064_AdeSugiantoro_5B</name>
+      <name>E:\Pentaho Data Integration\Tugas TM4\18090051_lilissonia</name>
       <is_command>N</is_command>
       <servlet_output>N</servlet_output>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
